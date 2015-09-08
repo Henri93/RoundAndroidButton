@@ -8,8 +8,8 @@
             android:innerRadius="0dp"
             android:thickness="75dp"
             android:useLevel="false">
-            <solid android:color="#045FB4"/>
-            <stroke android:color="#0080FF"
+            <solid android:color="YOUR COLOR HERE"/>
+            <stroke android:color="YOUR COLOR HERE"
                 android:width="2dp"/>
         </shape>
         
@@ -21,7 +21,7 @@
             android:innerRadius="0dp"
             android:thickness="75dp"
             android:useLevel="false">
-            <solid android:color="#0080FF"/>
+            <solid android:color="YOUR COLOR HERE"/>
         </shape>
     </item>
     
@@ -32,7 +32,7 @@
             android:innerRadius="0dp"
             android:thickness="75dp"
             android:useLevel="false">
-            <stroke android:color="#0080FF"
+            <stroke android:color="YOUR COLOR HERE"
                 android:width="2dp"/>
         </shape>
     </item>
