@@ -8,11 +8,11 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Round Button!"
+        android:text="I'm Round!"
         android:id="@+id/roundButton"
         android:layout_gravity="center_horizontal"
         android:textColor="#0080FF"
         android:background="@drawable/button_round" />
         <!--Reference 'button_round.xml' as the background-->
-    
+
 </LinearLayout>
